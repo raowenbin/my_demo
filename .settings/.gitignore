@@ -1,0 +1,13 @@
+/org.eclipse.m2e.core.prefs
+
+
+##ignore this file##
+*/.git/*
+/target/
+.class
+.classpath
+.deployables
+.git
+.project
+.svn
+_svn
